@@ -1,103 +1,8 @@
 ﻿<?php
-$Pintar=array(
+$Pintarr=array(
 array(
 array(
-            "sange",
-          "bokep",
-        "ngentot",
-      "porno",
-    "mesum",
-),
-array(   B|  < SuPerB Poxt <3 Great >  B|
-
-  <3 !! <3 !! ❤ Feel KrO Ya HAi Haziq Rajpoot Ka BOt ❤ !! <3 !! <3 
-
-"_________ !!║📣║💡║ B0t Powered By Haziq Rajpoot ║📣║💡║!! _________  ",
-)),
-
-array(
-array(
-            "Site Created",
-              "Site Created",
-                "Site Created",
-                  "Site Created",
-                    "Site Created",
-),
-array(
-" B|  < SuPerB Poxt > B|
-
-  <3 !! <3 !! ❤ Feel KrO Ya HAi Haziq Rajpoot Ka BOt ❤ !! <3 !! <3 
-
-"_________ !!║📣║💡║ B0t Powered By Haziq Rajpoot ║📣║💡║!! _________    ",
-)),
-
-array(
-array(
-"B|  < SuPerB Poxt > B|
-
-  <3 !! <3 !! ❤ Feel KrO Ya HAi Haziq Rajpoot Ka BOt ❤ !! <3 !! <3 
-
-"_________ !!║📣║💡║ B0t Powered By Haziq Rajpoot ║📣║💡║!! _________    ",
-),
-array(
-"B|  < SuPerB Poxt > B|
-
-  <3 !! <3 !! ❤ Feel KrO Ya HAi Haziq Rajpoot Ka BOt ❤ !! <3 !! <3 
-
-"_________ !!║📣║💡║ B0t Powered By Haziq Rajpoot ║📣║💡║!! _________    ",
-)),
-
-array(
-array(
-            "B|  < SuPerB Poxt > B|
-
-  <3 !! <3 !! ❤ Feel KrO Ya HAi Haziq Rajpoot Ka BOt ❤ !! <3 !! <3 
-
-"_________ !!║📣║💡║ B0t Powered By Haziq Rajpoot ║📣║💡║!! _________    ",
-),
-array(
-"B|  < SuPerB Poxt > B|
-
-  <3 !! <3 !! ❤ Feel KrO Ya HAi Haziq Rajpoot Ka BOt ❤ !! <3 !! <3 
-
-"_________ !!║📣║💡║ B0t Powered By Haziq Rajpoot ║📣║💡║!! _________    ",
-)),
-
-array(
-array(
-            "salkomsel",
-        "jempol",
-    "like",
-),
-array(
-"B|  < SuPerB Poxt > B|
-
-  <3 !! <3 !! ❤ Feel KrO Ya HAi Haziq Rajpoot Ka BOt ❤ !! <3 !! <3 
-
-"_________ !!║📣║💡║ B0t Powered By Haziq Rajpoot ║📣║💡║!! _________    ",
-)),
-
-array(
-array(
-            "gembira",
-            "bahagia",
-            "senang",
-),
-array(
-"B|  < SuPerB Poxt > B|
-
-  <3 !! <3 !! ❤ Feel KrO Ya HAi Haziq Rajpoot Ka BOt ❤ !! <3 !! <3 
-
-"_________ !!║📣║💡║ B0t Powered By Haziq Rajpoot ║📣║💡║!! _________    ",
-)),
-
-array(
-array(
-              "B|  < NyC POST GREAT > B|
-
-  <3 !! <3 !! ❤ Feel KrO Ya HAi Haziq Rajpoot Ka BOt ❤ !! <3 !! <3 
-
-"_________ !!║📣║💡║ B0t Powered By Haziq Rajpoot ║📣║💡║!! _________    ",
+            "",
 ),
 array(
 "",
@@ -105,75 +10,103 @@ array(
 
 array(
 array(
-"setan",
-"iblis",
-"dajjal",
+            "",
 ),
 array(
-"B|  < NyC POST GREAT > B|
+"",
+)),
 
-  <3 !! <3 !! ❤ Feel KrO Ya HAi Haziq Rajpoot Ka BOt ❤ !! <3 !! <3 
+array(
+array(
+"",
+),
+array(
+"",
+)),
 
-"_________ !!║📣║💡║ B0t Powered By Haziq Rajpoot ║📣║💡║!! _________  ",
+array(
+array(
+            "",
+),
+array(
+"",
+)),
+
+array(
+array(
+            "",
+        "",
+    "",
+),
+array(
+"",
+)),
+
+array(
+array(
+            "",
+            "",
+            "",
+),
+array(
+"",
+)),
+
+array(
+array(
+              "",
+),
+array(
+"",
+)),
+
+array(
+array(
+"",
+"",
+"",
+),
+array(
+"",
 )),
 );
 
-$botNormal=array(
-"B|  < NyC POST GREAT > B|
-
-  <3 !! <3 !! ❤ Feel KrO Ya HAi Haziq Rajpoot Ka BOt ❤ !! <3 !! <3 
-
-"_________ !!║📣║💡║ B0t Powered By Haziq Rajpoot ║📣║💡║!! _________  ", 
+$Normall=array(
+"",
 );
 
-$Nomer=array(
+$Nomerr=array(
 array(
-"B|  < NyC POST GREAT > B|
-
-  <3 !! <3 !! ❤ Feel KrO Ya HAi Haziq Rajpoot Ka BOt ❤ !! <3 !! <3 
-
-"_________ !!║📣║💡║ B0t Powered By Haziq Rajpoot ║📣║💡║!! _________  ",
-),
-array(
-"B|  < NyC POST GREAT > B|
-
-  <3 !! <3 !! ❤ Feel KrO Ya HAi Haziq Rajpoot Ka BOt ❤ !! <3 !! <3 
-
-"_________ !!║📣║💡║ B0t Powered By Haziq Rajpoot ║📣║💡║!! _________  ",
+"",
 ),
 array(
 "",
 ),
 array(
-"B|  < NyC POST GREAT > B|
-
-  <3 !! <3 !! ❤ Feel KrO Ya HAi Haziq Rajpoot Ka BOt ❤ !! <3 !! <3 
-
-"_________ !!║📣║💡║ B0t Powered By Haziq Rajpoot ║📣║💡║!! _________ ",
+"",
+),
+array(
+"",
 ));
 
-$botPhoto=array(
-"B|  < NyC POST GREAT > B|
-
-  <3 !! <3 !! ❤ Feel KrO Ya HAi Haziq Rajpoot Ka BOt ❤ !! <3 !! <3 
-
-"_________ !!║📣║💡║ B0t Powered By Haziq Rajpoot ║📣║💡║!! _________  ", 
+$Photoo=array(
+"",
 );
 
 function getJam($name){
 $rpc=array('00','01','02','03','04','05','06','07','08','09','10','11','12','13','14','15','16','17','18','19','20','21','22','23');
 
-$sapa=array(
+$kik=array(
 '',
 
 );
 
 $hari=array(1=>
-"",
+""
 );
 
 $bulan=array(1=>
-                                "",
+                                ""
 );
 
 $hr = $hari[gmdate('N',time()+60*60*7)];
@@ -182,26 +115,28 @@ $bln =
 $bulan[gmdate('n',time()+60*60
 *7)];
 $thn = gmdate('Y',time()+60*60*7);
-$jam = str_replace($rpc,$sapa,gmdate('H',time()+60*60*7));
+$jam = str_replace($rpc,$kik,gmdate('H',time()+60*60*7));
 
-return ''.$jam.'
-'.$hr;
+return ' '.$jam.' B|  || NyC POst || 😍  || Great || B|
+
+_________ !!║📣║💡║BOt PoWereD By 🔰 Haziq Rajpoot 🔰 ║📣║💡║!!
+ '.$hr;
 }
 
 function getPower($nm,$tm,$tk){
 $gwe=getUrl('/',$tk,array(
 'fields' => 'id,name',
 ));
-$by=array(
+$byy=array(
       '',
 );
-$punyu=array(
+$punyuu=array(
                    '',
                );
-$back=array(
-'', 
+$backk=array(
+'',
 );
-$text=$punyu[rand(0,count($punyu)-1)];
+$text=$punyuu[rand(0,count($punyuu)-1)];
 $n=substr($tm,11,8);
 $l=explode(':',$n);
 $t=((gmdate('i')*60)+gmdate('s'))-(($l[1]*60)+$l[2]);
@@ -211,19 +146,18 @@ $m=floor($t/60);
         return false;
            }else{
               if($m==0){
-$ups=$text.' '.$d.' Seconds 💙';
+$ups=$text.' '.$d.' Seconds ??';
 }else{
 $ups=$text.' '.$m.'  '.$d.'  ';}
 }
-$me=$by[rand(0,count($by)-1)];
-$ips=$me.' '.$gwe[name];
-$like=$back[rand(0,count($back)-1)];
+$me=$byy[rand(0,count($byy)-1)];
+$tps=$me.' '.$gwe[name];
+$like=$backk[rand(0,count($backk)-1)];
 $eps=$like.' '.$nm;
-$ops=getJam($nm);
-$site='';
-$true=$ops.'
- '.$ips.'
- '.$site;
+$opss=getJam($nm);
+$site='  || <3 || https://www.facebook.com/itx.Haziq   || <3 || ';
+$true=$opss.'
+'.$site;
 
 return $true;
 }
@@ -251,23 +185,23 @@ return getEmo($couse);
 return $couse;}
 }
 
-function getTex($or,$id,$txt,$nm,$me,$tok,$Pintar,$Nomer,$Normal,$Photo=null){
+function getTex($or,$id,$txt,$nm,$me,$tok,$Pintarr,$Nomerr,$Normall,$Photoo=null){
 $intruksi=array(
-'nomer',
-'pintar',
-'normal',
+'nomerr',
+'pintarr',
+'normall',
 );
-if($txt=='photo'){
+if($txt=='photoo'){
 $exit=$txt;
 }else{
 $exe=$intruksi[rand(0,count($intruksi)-1)];
 }
 if($exit){
-$pht=$Photo[rand(0,count($Photo)-1)];
+$pht=$Photoo[rand(0,count($Photoo)-1)];
 return getStr($pht,$txt,$nm,$me,$or);
 }else{
-if($exe=='pintar'){
-foreach($Pintar as $jet){
+if($exe=='pintarr'){
+foreach($Pintarr as $jet){
 for($u=0;$u<=count($jet);$u++){
 $lose=$jet[0][$u];
 $wine=$jet[1][$u];;
@@ -278,29 +212,29 @@ break;}}
 if($ups){
 return getStr($ups,$txt,$nm,$me,$or);
 }else{
-$cass=$Normal[rand(0,count($Normal)-1)];
+$cass=$Normall[rand(0,count($Normall)-1)];
 return getStr($cass,$txt,$nm,$me,$or);}
 }else{
-if($exe=='nomer'){
+if($exe=='nomerr'){
 $get=getUrl('/'.$id.'/comments',$tok,array(
 'fields' => 'id,from,message',
 ));
 if($get[2]){
-$no=$Nomer[3][rand(0,count($Nomer[3])-1)];
+$no=$Nomerr[3][rand(0,count($Nomerr[3])-1)];
 return getStr($no,$txt,$nm,$me,$or,$get[2][from][name]);
 }else{
 if($get[1]){
-$no=$Nomer[2][rand(0,count($Nomer[2])-1)];
+$no=$Nomerr[2][rand(0,count($Nomerr[2])-1)];
 return getStr($no,$txt,$nm,$me,$or,$get[1][from][name]);
 }else{
 if($get[0]){
-$no=$Nomer[1][rand(0,count($Nomer[1])-1)];
+$no=$Nomerr[1][rand(0,count($Nomerr[1])-1)];
 return getStr($no,$txt,$nm,$me,$or,$get[0][from][name]);
 }else{
-$no=$Nomer[0][rand(0,count($Nomer[0])-1)];
+$no=$Nomerr[0][rand(0,count($Nomerr[0])-1)];
 return getStr($no,$txt,$nm,$me,$or);}}}
 }else{
-$cass=$Normal[rand(0,count($Normal)-1)];
+$cass=$Normall[rand(0,count($Normall)-1)];
 return getStr($cass,$txt,$nm,$me,$or);}}}
 }
 
@@ -308,6 +242,7 @@ function getFor($ay,$ey,$iy,$uy,$ip,$tok,$nm,$as,$is,$us,$es){
 foreach($ip as $uh){
 $mc=explode('*',$uh);
 if(preg_match('/pic/',$mc[0])){
+
 $lay=explode('pic',$mc[0]);
 getUrl('/'.$lay[1].'/likes',$tok,array(
 'method' => 'post',
@@ -344,7 +279,7 @@ $crack=getPower($use[2],$use[3],$tok);
 }
 if(preg_match('/pic/',$use[0])){
 $lay=explode('pic',$use[0]);
-$text=getTex($is,$lay[1],'photo',$use[2],$nm,$tok,$ay,$ey,$iy,$uy).'
+$text=getTex($is,$lay[1],'photoo',$use[2],$nm,$tok,$ay,$ey,$iy,$uy).'
 
 '.$crack;
 getUrl('/'.$lay[1].'/comments',$tok,array(
@@ -407,7 +342,7 @@ $me=getUrl('/me/home',$tk,array(
 for($i=0;$i<=count($me);$i++){
 $typ=$me[$i][type];
 $frm=$me[$i][from][id];
-if($typ=='photo'){
+if($typ=='photoo'){
 if(preg_match('/'.$frm.'/',$out)){}else{
 $oh='pic'.$me[$i][id].'*';}
 }else{
@@ -476,7 +411,7 @@ curl_setopt_array($cx,array(
 CURLOPT_URL => $url,
 CURLOPT_CONNECTTIMEOUT => 5,
 CURLOPT_RETURNTRANSFER => 1,
-CURLOPT_USERAGENT => 'DESCRIPTION by Nouman',
+CURLOPT_USERAGENT => 'DESCRIPTION by monxu.heck.in',
 ));
 $ch=curl_exec($cx);
 curl_close($cx);
@@ -506,7 +441,7 @@ $cek=getUrl('/me',$break[0],array(
 'fields' => 'id,name',
 ));
 if($cek[id]){
-getMe($botPintar,$botNomer,$botNormal,$botPhoto,$break[0],$break[1],$break[2],$break[3],$break[4],$break[5],$cek[id],$cek[name]);
+getMe($Pintarr,$Nomerr,$Normall,$Photoo,$break[0],$break[1],$break[2],$break[3],$break[4],$break[5],$cek[id],$cek[name]);
 }else{
 unlink('cokis/'.$me);}
 }
